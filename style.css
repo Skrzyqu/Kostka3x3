@@ -2,7 +2,7 @@ body {
     background-color: lightslategrey;
     display: flex;
     justify-content: center;
-    height: 100vh;
+    height: 120vh;
 }
 
 .box {
@@ -21,10 +21,10 @@ body {
 .row div {
     color: #fff;
     text-align: center;
-    line-height: 150px;
-    font-size: 36px;
-    width: 150px;
-    height: 150px;
+    line-height: 175px;
+    font-size: 38px;
+    width: 175px;
+    height: 175px;
     border: 10px black;
 }
 
